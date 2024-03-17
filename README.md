@@ -28,3 +28,5 @@ Bayesians: They focus on probabilistic reasoning and treat learning as a form of
 
 Analogizers: They emphasize the importance of similarity judgments, learning about new instances by comparing them to known instances. The k-nearest neighbors algorithm, which predicts the label of a new instance based on the labels of its closest neighbors in the data space, is a typical example.
 
+## Hebb's Rule
+Hebb's Rule, often summarized as "neurons that fire together, wire together," is a foundational concept in neuroscience and neural network theory, proposed by Donald Hebb in his 1949 book "The Organization of Behavior." 
