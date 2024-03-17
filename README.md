@@ -15,6 +15,7 @@ https://github.com/Skumarr53/Attention-is-All-you-Need-PyTorch/blob/master/Atten
 The full documentary is available online and can be viewed through the following link: 
 [Silicon Valley - American Experience](https://ihavenotv.com/silicon-valley-american-experience)
 
+## The Master Algorithm
 In his book "The Master Algorithm," Pedro Domingos describes the concept of five "tribes" in machine learning, each with its own fundamental approach to learning from data. These tribes are:
 
 Symbolists: They view learning as the inverse of deduction and take a logical approach to model the world. Their methods are based on inverse deduction to learn the set of rules that produce the given outcomes. A classic example of a symbolist method is decision tree learning.
