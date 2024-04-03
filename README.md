@@ -1,21 +1,24 @@
-# Personas
-https://github.com/anthropics/anthropic-cookbook
-# Prompts
-https://docs.anthropic.com/claude/prompt-library
-# Attention is all you need (Research paper)
+### Personas
+*[Claude](https://github.com/anthropics/anthropic-cookbook)
+
+### Prompts
+*[Prompt Library](https://docs.anthropic.com/claude/prompt-library)
+
+### Attention is all you need (Research paper)
 https://github.com/Skumarr53/Attention-is-All-you-Need-PyTorch/blob/master/Attention_is_all_you_need.pdf
-# Transformer
 
-# Silicon Valley Documentary
+### Transformer
 
-## About the Documentary
+### Silicon Valley Documentary
+
+### About the Documentary
 "Silicon Valley" explores the rise and influence of the tech hub that has become synonymous with cutting-edge technology and innovation. The documentary chronicles the stories of the region's trailblazers and the breakthroughs that have shaped our digital age.
 
-## Watching the Documentary
+### Watching the Documentary
 The full documentary is available online and can be viewed through the following link: 
 [Silicon Valley - American Experience](https://ihavenotv.com/silicon-valley-american-experience)
 
-## The Master Algorithm
+### The Master Algorithm
 In his book "The Master Algorithm," Pedro Domingos describes the concept of five "tribes" in machine learning, each with its own fundamental approach to learning from data. These tribes are:
 
 Symbolists: They view learning as the inverse of deduction and take a logical approach to model the world. Their methods are based on inverse deduction to learn the set of rules that produce the given outcomes. A classic example of a symbolist method is decision tree learning.
