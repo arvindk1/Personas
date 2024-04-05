@@ -33,3 +33,6 @@ Analogizers: They emphasize the importance of similarity judgments, learning abo
 
 ## Hebb's Rule
 Hebb's Rule, often summarized as "neurons that fire together, wire together," is a foundational concept in neuroscience and neural network theory, proposed by Donald Hebb in his 1949 book "The Organization of Behavior." 
+
+## Andrej Karpathy
+https://youtu.be/zjkBMFhNj_g?si=cRMyWcyBhXpU31ET
